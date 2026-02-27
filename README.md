@@ -2,6 +2,8 @@
 
 **Transform your clipboard text from the menu bar.** Copy text, pick a transform, paste the result. No terminal, no web tools, no context switch.
 
+![PasteForge](screenshot.png)
+
 ## Why it exists
 
 You copy text constantly — variable names, API responses, URLs, code snippets. Half the time you need it transformed: uppercased, base64-encoded, JSON-formatted, hashed. Today you open a terminal, a web tool, or an editor. PasteForge puts 35+ transforms one click away in your menu bar.
