@@ -10,20 +10,23 @@ You copy text constantly — variable names, API responses, URLs, code snippets.
 
 ## Install
 
+### Homebrew (recommended)
+
 ```bash
-# Clone and build
+brew tap scasella/tap
+brew install --cask pasteforge
+```
+
+Signed, notarized, and stapled — no Gatekeeper warnings.
+
+### Build from source
+
+```bash
+git clone https://github.com/scasella/PasteForge.git
 cd PasteForge
 chmod +x build.sh
 ./build.sh
-
-# Launch
 open PasteForge.app
-```
-
-Or compile directly:
-```bash
-swiftc -parse-as-library -o PasteForge PasteForge.swift
-./PasteForge
 ```
 
 ## Quickstart
