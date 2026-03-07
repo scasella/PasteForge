@@ -6,7 +6,7 @@
 
 ## Why it exists
 
-You copy text constantly — variable names, API responses, URLs, code snippets. Half the time you need it transformed: uppercased, base64-encoded, JSON-formatted, hashed. Today you open a terminal, a web tool, or an editor. PasteForge puts 35+ transforms one click away in your menu bar.
+I was constantly opening a terminal or a website just to uppercase a string, base64-encode an API key, or pretty-print some JSON. It's always the same flow: copy, transform, paste. PasteForge puts 37 transforms one click away in the menu bar. No context switch, no browser tab, no `echo | base64`.
 
 ## Install
 
